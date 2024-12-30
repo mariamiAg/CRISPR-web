@@ -22,6 +22,3 @@ Successfully addressed ethical considerations in gene editing, providing a balan
 ## Usage
 To view the presentation, simply open the accompanying file or access the GitHub repository. If you wish to contribute or suggest edits, feel free to submit a pull request.
 
-## Acknowledgments
-Special thanks to [Source/Author] for [help/resource].
-Thanks to the researchers and contributors to CRISPR technology.
